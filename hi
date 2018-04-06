@@ -1,0 +1,14 @@
+#!/usr/bin/env python
+
+from playsound import playsound
+import os
+import getpass
+
+def main():
+    # print out the actual text file
+    os.system("cat /home/${USER}/Public/.max/bin/max.txt")
+    # play the sound
+    playsound("/home/" + getpass.getuser() + "/Public/.max/bin/max.mp3")
+
+main()
+  
