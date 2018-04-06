@@ -1,6 +1,6 @@
 # Mr. Max the Parrot says Hi
 
-#### This is just a project I made to practice with installation scripting
+This is just a little project I made to practice with installation scripting
 
 ## Installation
 Just pull the project or download the zip of it into a directory of your choice, 
